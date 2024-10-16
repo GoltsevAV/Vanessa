@@ -1,4 +1,4 @@
-﻿#l anguage: ru
+﻿#language: ru
 @tree
 @ExportScenarios
 Функционал: <описание фичи>
